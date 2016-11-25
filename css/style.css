@@ -604,10 +604,10 @@ font header .navbar-default .navbar-nav li a:hover {
 /*----------------------------------------------*/
 
 #pic-aboutme{
-    background-image: url("../img/aboutMe.jpeg");
+    background-image: url("../img/profile.jpg");
     background-repeat: no-repeat;
     background-size: 180%;
-    background-position: 60%;
+    background-position: 0%;
     border-radius: 50%;
     width: 380px;
     height: 380px;
